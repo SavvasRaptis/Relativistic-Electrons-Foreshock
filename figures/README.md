@@ -8,7 +8,7 @@ Below we give instructions on how to reproduce each figure and table of the anal
 In the irfu-package there are examples of all the plots that are included in the manuscript with documentation and extensive descriptions.
 MMS examples are located here: https://github.com/irfu/irfu-matlab/tree/master/plots/mms
 
-In all the figures, the special notation was done by editing vector graphic files exported from MATLAB with Adobe Illustrator 2024. While the majority of the plots were made in MATLAB, similarly open access functions such as Python's [Matplotlib](https://matplotlib.org) can be used to generate the same figures with minor visual differences. Furthermore, by installing the [Pyspedas](https://github.com/spedas/pyspedas/) package that was used to download the data, the requirement packages to do all operations and plots in Python become also available..
+In all the figures, the special notation was done by editing vector graphic files exported from MATLAB with Adobe Illustrator 2024. While the majority of the plots were made in MATLAB, similarly open access functions such as Python's [Matplotlib](https://matplotlib.org) can be used to generate the same figures with minor visual differences. Furthermore, by installing the [Pyspedas](https://github.com/spedas/pyspedas/) package that was used to download the data, the requirement packages to do all operations and plots in Python become also available.
 
 More information regarding the derivation of each product that is plotted on all figures can be found in the Methods section of the article. The information below should be used complementary to the information found in the text regarding each neccesary derivation.
 
