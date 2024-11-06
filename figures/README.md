@@ -45,5 +45,6 @@ More information regarding the derivation of each product that is plotted on all
 
 ### Figure S3
 * Figure 7 consist of a typical timeseries ladder plot. Similarly to Figures 1 and 2, for the ion and electron differential energy flux spectrum, the irf_spectrogram function of [irfu-matlab](https://github.com/irfu/irfu-matlab) was used. All tha panels and plots were made using irf_plot and irf_panel of [irfu-matlab](https://github.com/irfu/irfu-matlab). To generate the power spectra of the electric and magnetic field, for the polarization analysis and to determine the ellipticity and angle of propagation with respect to the magnetic field, [irf_ebsp](https://github.com/irfu/irfu-matlab/blob/master/irf/irf_ebsp.m) function is used.
-* 
+
+
 If more information are needed, the reader may contact the corresponding author. 
