@@ -32,21 +32,18 @@ More information regarding the derivation of each product that is plotted on all
 
 
 ### Figure 5
-* Figure 5 consists of several spectrograms of the FEEPS high-energy electron populations made with the irf_spectrogram function of [irfu-matlab](https://github.com/irfu/irfu-matlab). The left plot (panel A) shows the raw data for all MMS spacecraft while on the right (panel B) one can see the cleaned version in which the removed data are ploted as NaN (Not a Number) values with hite background.
-
-
-### Figure 6
-* Figure 6 is made with the MATLAB [stackedplot function](https://www.mathworks.com/help/matlab/ref/stackedplot.html). Special indication (i.e., vertical lines) are made using the [annotation](https://www.mathworks.com/help/matlab/ref/annotation.html) function.
-
-
-### Figure 7
-* Figure 7 consist of a typical timeseries ladder plot. Similarly to Figures 1 and 2, for the ion and electron differential energy flux spectrum, the irf_spectrogram function of [irfu-matlab](https://github.com/irfu/irfu-matlab) was used. All tha panels and plots were made using irf_plot and irf_panel of [irfu-matlab](https://github.com/irfu/irfu-matlab). To generate the power spectra of the electric and magnetic field, for the polarization analysis and to determine the ellipticity and angle of propagation with respect to the magnetic field, [irf_ebsp](https://github.com/irfu/irfu-matlab/blob/master/irf/irf_ebsp.m) function is used.
-
-### Figure 8
 * Figure 8 is made using [SPEDAS](http://spedas.org/wiki/index.php?title=Downloads_and_Installation#Download_the_SPEDAS_executables,_Version_6.1_(May_2024)) standlone software. To generate the 2D slices distributions, the function  thm_ui_slice2d was used. Information on how to run it along with examples can be found on SPEDAS [website](http://spedas.org/wiki/index.php?title=THEMIS_Particle_Distribution_Slices).
 
-
-### Figure 9
+### Figure 6
 * Figure 9 was made in MATLAB using standard plot functions. In particular, to generate the meshgrid for the bow shock model, the function meshgrid from MATLAB is used with a resolution of 0.4 Re. [quiver3](https://www.mathworks.com/help/matlab/ref/quiver3.html) and plot3 were used to [plot](https://www.mathworks.com/help/matlab/ref/plot3.html) the direction of the discontinuities and the location of the ARTEMIS spacecraft respectively. More information regarding the parametrization of the bow shock model used can be found in the methods section.
 
+### Figure S1
+* Figure 5 consists of several spectrograms of the FEEPS high-energy electron populations made with the irf_spectrogram function of [irfu-matlab](https://github.com/irfu/irfu-matlab). The left plot (panel A) shows the raw data for all MMS spacecraft while on the right (panel B) one can see the cleaned version in which the removed data are ploted as NaN (Not a Number) values with hite background.
+
+### Figure S2
+* Figure 6 is made with the MATLAB [stackedplot function](https://www.mathworks.com/help/matlab/ref/stackedplot.html). Special indication (i.e., vertical lines) are made using the [annotation](https://www.mathworks.com/help/matlab/ref/annotation.html) function.
+
+### Figure S3
+* Figure 7 consist of a typical timeseries ladder plot. Similarly to Figures 1 and 2, for the ion and electron differential energy flux spectrum, the irf_spectrogram function of [irfu-matlab](https://github.com/irfu/irfu-matlab) was used. All tha panels and plots were made using irf_plot and irf_panel of [irfu-matlab](https://github.com/irfu/irfu-matlab). To generate the power spectra of the electric and magnetic field, for the polarization analysis and to determine the ellipticity and angle of propagation with respect to the magnetic field, [irf_ebsp](https://github.com/irfu/irfu-matlab/blob/master/irf/irf_ebsp.m) function is used.
+* 
 If more information are needed, the reader may contact the corresponding author. 
