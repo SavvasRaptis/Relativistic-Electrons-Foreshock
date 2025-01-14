@@ -1,10 +1,10 @@
 # Reinforced Shock Acceleration for Relativistic Electrons - Injection Threshold
 In this repository we provide instructions and the code that allow the reproduction of the results found in the manuscript "*Revealing an Unexpectedly Low Electron Injection Threshold via Reinforced Shock Acceleration*" Under Review in Nature Communications journal.
 
-[![Publication: Under Review](https://img.shields.io/badge/Publication-Under_Review-orange?style=flat&logo=openaccess)](/README.md)
+[![Publication:](https://img.shields.io/badge/Publication-Published-green?style=flat&logo=openaccess)](https://www.nature.com/articles/s41467-024-55641-9)
 
 ### Cite as 
-*TBD*
+Raptis, S., Lalti, A., Lindberg, M. et al. Revealing an unexpectedly low electron injection threshold via reinforced shock acceleration. Nat Commun 16, 488 (2025). https://doi.org/10.1038/s41467-024-55641-9
 
 ### Corresponding Author
 [![Savvas Raptis: 0000-0002-4381-3197](https://img.shields.io/badge/Savvas%20Raptis-0000--0002--4381--3197-green?style=flat&logo=orcid)](https://orcid.org/0000-0002-4381-3197)
