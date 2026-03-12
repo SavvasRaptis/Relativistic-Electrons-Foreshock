@@ -1,5 +1,5 @@
 # Reinforced Shock Acceleration for Relativistic Electrons - Injection Threshold
-In this repository we provide instructions and the code that allow the reproduction of the results found in the manuscript "*Revealing an Unexpectedly Low Electron Injection Threshold via Reinforced Shock Acceleration*" Under Review in Nature Communications journal.
+In this repository we provide instructions and the code that allow the reproduction of the results found in the manuscript "*Revealing an Unexpectedly Low Electron Injection Threshold via Reinforced Shock Acceleration*" Published in Nature Communications journal.
 
 [![Publication:](https://img.shields.io/badge/Publication-Published-green?style=flat&logo=openaccess)](https://www.nature.com/articles/s41467-024-55641-9)
 
